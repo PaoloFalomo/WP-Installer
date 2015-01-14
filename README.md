@@ -39,7 +39,6 @@ New Graphics and Folder support
   ```
 ---
 ## NEXT Features
-* Coming next (soon):
 * Ajax response of installation
-  * Zip get from wordpress.org of the latest wordpress version
-  * Choose old version (a select that make you deice
+  * Zip get from wordpress.org of the latest wordpress version (sure)
+  * Choose old version (a select that make you choose an older wordpress version) (unsafe)
