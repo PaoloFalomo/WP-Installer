@@ -10,6 +10,7 @@ A thin wordpress php installer.
 * An FTP connection
 * Internet
 * A Brain (that works, if you haven't one you can find it [here](http://lmgtfy.com/?q=brain) ) :)
+
 ## Features
 * He installs wordpress by the zip (needed) side this php file.
 * He works great :) now with new graphics too!
